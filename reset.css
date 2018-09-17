@@ -1,0 +1,9 @@
+body {
+    background-color: #F1F1F1;
+    font-family: 'Roboto', sans-serif;
+}
+
+#root {
+    
+    box-shadow: 0 0 3px 0 rgba(0, 0, 0, 0.3);
+}
